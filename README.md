@@ -1,1 +1,1 @@
-POTS is an inventory management system made by a group of members to better understand how backend data is handled using java, the files needed for the file are given download then and run it netbeans, It is a GUI System.
+POTS is an inventory management system made by a group of members to better understand how backend data is handled using java, the files needed for the programm to run correctly are given download all of them then and run it netbeans, It is a GUI System.
