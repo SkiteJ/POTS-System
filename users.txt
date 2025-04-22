@@ -1,0 +1,9 @@
+JA933,Jaffar,Jaf,Jaf123,Admin
+JA762,Jaffar,Jaf,Jaf321,FinanceManager
+MA863,Mark,Ma,Ma123,PurchaseManager
+HA393,Hassan,Has,Has123,InventoryManager
+VO115,Voon,Vo,Vo123,SalesManager
+AL328,Ali,AL,AL21,PurchaseManager
+LO178,Loong,Lo,Lo123,SalesManager
+AL121,Ali,Al,Al123,SalesManager
+KH802,Khan,KA,KA123,FinanceManager

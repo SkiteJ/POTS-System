@@ -1,0 +1,19 @@
+CM4321,Coffee Maker,5,75.0,375.0
+EK5678,Electric Kettle,4,40.0,160.0
+RC1234,Rice Cooker,8,60.0,480.0
+IC9012,Induction Cooktop,2,120.0,240.0
+SM3456,Stand Mixer,3,250.0,750.0
+DF7890,Deep Fryer,4,85.0,340.0
+SC2345,Slow Cooker,6,65.0,390.0
+FP8765,Food Processor,5,150.0,750.0
+BT3451,Bread Toaster,10,35.0,350.0
+JU5674,Juicer,3,110.0,330.0
+WA4409,Washing Machine,15,100.0,1500.0
+EG0927,Egg,10,50.0,500.0
+TA3841,Table,5,60.0,300.0
+CH5931,Chair,5,70.0,350.0
+ST7775,Stool,10,20.0,200.0
+MI6942,Mirror,5,20.0,100.0
+ST0023,Stove,5,30.0,150.0
+HE0477,Heater,5,40.0,200.0
+SH9666,Shower,5,30.0,150.0

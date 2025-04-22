@@ -1,0 +1,15 @@
+TV3441,TV,10,5,500.0,SUP006,Approved
+ST7775,Stool,5,10,200.0,SUP106,Pending
+FR9023,Fridge,2,3,900.0,SUP007,Rejected
+WM6457,Washing Machine,3,4,750.0,SUP008,Approved
+AC2784,Air Conditioner,4,6,1200.0,SUP010,Pending
+BL5467,Blender,04,21,1800.0,SUP013,Rejected
+BL5467,Blender,04,12,1800.0,SUP013,Rejected
+FP4521,Food Processor,06,21,3500.0,SUP011,Pending
+TB4321,Table,09,3,700.0,SUP007,Approved
+MW3456,Microwave,05,5,1500.0,SUP009,Pending
+BL5467,Blender,04,21,1800.0,SUP013,Rejected
+MI6942,Mirror,5,10,12.0,SUP023,Approved
+ST0023,Stove,5,10,18.0,SUP032,Approved
+HE0977,Heater,5,10,19.0,SUP042,Pending
+SH9966,shower,5,10,18.0,SUP043,Approved

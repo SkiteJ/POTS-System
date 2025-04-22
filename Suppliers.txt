@@ -1,0 +1,12 @@
+SUP006,ABC Supplies,abc@example.com,CM4321|IC9012
+SUP007,XYZ Distributors,xyz@example.com,EK5678|BT9012
+SUP008,SteelCorp,steelcorp@example.com,RC1234|SC2345
+SUP009,QuickMart Supplies,quickmart@example.com,JC4567|DP6789
+SUP010,Kitchen Essentials,kitchen@example.com,FP3456|NS7890
+SUP011,Global Traders,global@example.com,TM6789|SR4567
+SUP012,Culinary Depot,culinary@example.com,PS5678|ST1234
+SUP013,Home Essentials,homeessentials@example.com,SP6789|CF3456
+SUP023,New York Trades,NY@gmail.com,MI6942
+SUP032,Board,board@gmail.com,ST0023
+SUP042,Vase,vase@gmail.com,HE0477
+SUP043,waze,waze@gmail.com,SH9666

@@ -1,0 +1,4 @@
+TB4321,Table,3,700.0,SUP007,Rejected,XYZ Distributors
+MI6942,Mirror,10,12.0,SUP023,Rejected,New York Trades
+ST0023,Stove,10,18.0,SUP032,Approved,Board
+SH9966,shower,10,18.0,SUP043,Approved,waze
